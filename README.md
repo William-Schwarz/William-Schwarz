@@ -31,6 +31,7 @@ Prazer, sou **William Daniel Schwarz**, desenvolvedor **FullStack Flutter** no *
   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 - **Produtividade e Organização**:
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚀 DevOps
 - **Controle de Versão**:  

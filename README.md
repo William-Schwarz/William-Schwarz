@@ -52,8 +52,10 @@ Se quiser trocar uma ideia, colaborar em projetos ou só bater um papo sobre tec
 
 ## 📊 GitHub em Números
 
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=William-Schwarz&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=William-Schwarz&theme=radical)
+
+![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=William-Schwarz&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Schwarz&layout=compact&theme=radical)
 
 ---
